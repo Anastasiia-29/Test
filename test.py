@@ -4,3 +4,7 @@ for i in range(11):
 tpl = tuple(lst)    
 print(lst)
 print(type(tpl))
+
+new_tuple = tuple(lst)
+print(new_tuple)
+print(lst)
